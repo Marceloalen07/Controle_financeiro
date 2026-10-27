@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome": "joão",
+        "tipo": "Receita",
+        "descricao": "Bolsa de estágio",
+        "valor_centavos": 150000,
+        "categoria": "Trabalho",
+        "data": "2026-10-22"
+
+    }
+]
