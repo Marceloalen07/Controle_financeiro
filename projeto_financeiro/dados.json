@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "nome": "joão",
+        "nome": "Marcelo",
         "tipo": "Receita",
         "descricao": "Bolsa de estágio",
-        "valor_centavos": 150000,
+        "valor_centavos": 72000,
         "categoria": "Trabalho",
         "data": "2026-10-22"
 
